@@ -1,4 +1,2 @@
 # Negeer build output folders
-bin/
-obj/
 .vs/

@@ -1,0 +1,11 @@
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\obj\Debug\Roltoewijzing.csproj.AssemblyReference.cache
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\obj\Debug\Roltoewijzing.Form1.resources
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\obj\Debug\Roltoewijzing.Properties.Resources.resources
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\obj\Debug\Roltoewijzing.csproj.GenerateResource.cache
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\obj\Debug\Roltoewijzing.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\bin\Debug\Roltoewijzing.exe.config
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\bin\Debug\Roltoewijzing.exe
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\bin\Debug\Roltoewijzing.pdb
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\obj\Debug\Roltoewijzing.exe
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\obj\Debug\Roltoewijzing.pdb
+C:\Users\NsGam\Documents\GitHub\RekenMachine\Roltoewijzing\Roltoewijzing\obj\Debug\Roltoewijzing.exe.config

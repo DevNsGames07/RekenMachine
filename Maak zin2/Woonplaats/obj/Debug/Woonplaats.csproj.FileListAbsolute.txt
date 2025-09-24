@@ -1,0 +1,10 @@
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\bin\Debug\Woonplaats.exe.config
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\bin\Debug\Woonplaats.exe
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\bin\Debug\Woonplaats.pdb
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\obj\Debug\Woonplaats.csproj.AssemblyReference.cache
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\obj\Debug\Woonplaats.Form1.resources
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\obj\Debug\Woonplaats.Properties.Resources.resources
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\obj\Debug\Woonplaats.csproj.GenerateResource.cache
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\obj\Debug\Woonplaats.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\obj\Debug\Woonplaats.exe
+C:\Users\NsGam\source\repos\Woonplaats\Woonplaats\obj\Debug\Woonplaats.pdb

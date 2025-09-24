@@ -1,0 +1,10 @@
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\bin\Debug\HelloWorldApp1.exe.config
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\bin\Debug\HelloWorldApp1.exe
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\bin\Debug\HelloWorldApp1.pdb
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\obj\Debug\HelloWorldApp1.csproj.AssemblyReference.cache
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\obj\Debug\HelloWorldApp1.Form1.resources
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\obj\Debug\HelloWorldApp1.Properties.Resources.resources
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\obj\Debug\HelloWorldApp1.csproj.GenerateResource.cache
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\obj\Debug\HelloWorldApp1.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\obj\Debug\HelloWorldApp1.exe
+C:\Users\NsGam\source\repos\HelloWorldApp\HelloWorldApp1\obj\Debug\HelloWorldApp1.pdb

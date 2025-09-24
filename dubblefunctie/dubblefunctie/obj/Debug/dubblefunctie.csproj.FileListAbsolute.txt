@@ -1,0 +1,11 @@
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\bin\Debug\dubblefunctie.exe.config
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\bin\Debug\dubblefunctie.exe
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\bin\Debug\dubblefunctie.pdb
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\obj\Debug\dubblefunctie.csproj.AssemblyReference.cache
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\obj\Debug\dubblefunctie.Form1.resources
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\obj\Debug\dubblefunctie.Properties.Resources.resources
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\obj\Debug\dubblefunctie.csproj.GenerateResource.cache
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\obj\Debug\dubblefunctie.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\obj\Debug\dubblefunctie.exe
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\obj\Debug\dubblefunctie.pdb
+C:\Users\NsGam\source\repos\dubblefunctie\dubblefunctie\obj\Debug\dubblefunctie.exe.config

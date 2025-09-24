@@ -1,0 +1,14 @@
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\bin\Debug\net8.0\4.2_tien_rekenvragen.exe
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\bin\Debug\net8.0\4.2_tien_rekenvragen.deps.json
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\bin\Debug\net8.0\4.2_tien_rekenvragen.runtimeconfig.json
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\bin\Debug\net8.0\4.2_tien_rekenvragen.dll
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\bin\Debug\net8.0\4.2_tien_rekenvragen.pdb
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\obj\Debug\net8.0\4.2_tien_rekenvragen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\obj\Debug\net8.0\4.2_tien_rekenvragen.AssemblyInfoInputs.cache
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\obj\Debug\net8.0\4.2_tien_rekenvragen.AssemblyInfo.cs
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\obj\Debug\net8.0\4.2_tien_rekenvragen.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\obj\Debug\net8.0\4.2_tien_rekenvragen.dll
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\obj\Debug\net8.0\refint\4.2_tien_rekenvragen.dll
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\obj\Debug\net8.0\4.2_tien_rekenvragen.pdb
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\obj\Debug\net8.0\4.2_tien_rekenvragen.genruntimeconfig.cache
+C:\Users\NsGam\source\repos\helloworldapp\4.2_tien_rekenvragen\obj\Debug\net8.0\ref\4.2_tien_rekenvragen.dll

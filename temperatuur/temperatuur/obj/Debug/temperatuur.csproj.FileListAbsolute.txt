@@ -1,0 +1,11 @@
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\obj\Debug\temperatuur.csproj.AssemblyReference.cache
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\obj\Debug\temperatuur.Form1.resources
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\obj\Debug\temperatuur.Properties.Resources.resources
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\obj\Debug\temperatuur.csproj.GenerateResource.cache
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\obj\Debug\temperatuur.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\bin\Debug\temperatuur.exe.config
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\bin\Debug\temperatuur.exe
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\bin\Debug\temperatuur.pdb
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\obj\Debug\temperatuur.exe
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\obj\Debug\temperatuur.pdb
+C:\Users\NsGam\source\repos\temperatuur\temperatuur\obj\Debug\temperatuur.exe.config

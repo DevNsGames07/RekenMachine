@@ -1,0 +1,10 @@
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\bin\Debug\cirkelberekennen.exe.config
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\bin\Debug\cirkelberekennen.exe
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\bin\Debug\cirkelberekennen.pdb
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\obj\Debug\cirkelberekennen.csproj.AssemblyReference.cache
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\obj\Debug\cirkelberekennen.Form1.resources
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\obj\Debug\cirkelberekennen.Properties.Resources.resources
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\obj\Debug\cirkelberekennen.csproj.GenerateResource.cache
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\obj\Debug\cirkelberekennen.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\obj\Debug\cirkelberekennen.exe
+C:\Users\NsGam\source\repos\cirkelberekennen\cirkelberekennen\obj\Debug\cirkelberekennen.pdb

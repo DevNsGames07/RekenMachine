@@ -1,0 +1,11 @@
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\bin\Debug\Maakzin.exe.config
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\bin\Debug\Maakzin.exe
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\bin\Debug\Maakzin.pdb
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\obj\Debug\Maakzin.csproj.AssemblyReference.cache
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\obj\Debug\Maakzin.Form1.resources
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\obj\Debug\Maakzin.Properties.Resources.resources
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\obj\Debug\Maakzin.csproj.GenerateResource.cache
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\obj\Debug\Maakzin.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\obj\Debug\Maakzin.exe
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\obj\Debug\Maakzin.pdb
+C:\Users\NsGam\source\repos\Maakzin\Maakzin\obj\Debug\Maakzin.exe.config

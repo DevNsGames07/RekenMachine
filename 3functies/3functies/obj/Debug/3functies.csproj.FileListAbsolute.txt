@@ -1,0 +1,11 @@
+C:\Users\NsGam\source\repos\3functies\3functies\bin\Debug\3functies.exe.config
+C:\Users\NsGam\source\repos\3functies\3functies\bin\Debug\3functies.exe
+C:\Users\NsGam\source\repos\3functies\3functies\bin\Debug\3functies.pdb
+C:\Users\NsGam\source\repos\3functies\3functies\obj\Debug\3functies.csproj.AssemblyReference.cache
+C:\Users\NsGam\source\repos\3functies\3functies\obj\Debug\_3functies.Form1.resources
+C:\Users\NsGam\source\repos\3functies\3functies\obj\Debug\_3functies.Properties.Resources.resources
+C:\Users\NsGam\source\repos\3functies\3functies\obj\Debug\3functies.csproj.GenerateResource.cache
+C:\Users\NsGam\source\repos\3functies\3functies\obj\Debug\3functies.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\3functies\3functies\obj\Debug\3functies.exe
+C:\Users\NsGam\source\repos\3functies\3functies\obj\Debug\3functies.pdb
+C:\Users\NsGam\source\repos\3functies\3functies\obj\Debug\3functies.exe.config

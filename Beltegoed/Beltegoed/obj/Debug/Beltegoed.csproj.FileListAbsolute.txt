@@ -1,0 +1,11 @@
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\bin\Debug\Beltegoed.exe.config
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\bin\Debug\Beltegoed.exe
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\bin\Debug\Beltegoed.pdb
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\obj\Debug\Beltegoed.csproj.AssemblyReference.cache
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\obj\Debug\Beltegoed.Form1.resources
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\obj\Debug\Beltegoed.Properties.Resources.resources
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\obj\Debug\Beltegoed.csproj.GenerateResource.cache
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\obj\Debug\Beltegoed.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\obj\Debug\Beltegoed.exe
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\obj\Debug\Beltegoed.pdb
+C:\Users\NsGam\source\repos\Beltegoed\Beltegoed\obj\Debug\Beltegoed.exe.config

@@ -1,0 +1,11 @@
+C:\Users\NsGam\source\repos\Maxium\Maxium\bin\Debug\Maxium.exe.config
+C:\Users\NsGam\source\repos\Maxium\Maxium\bin\Debug\Maxium.exe
+C:\Users\NsGam\source\repos\Maxium\Maxium\bin\Debug\Maxium.pdb
+C:\Users\NsGam\source\repos\Maxium\Maxium\obj\Debug\Maxium.csproj.AssemblyReference.cache
+C:\Users\NsGam\source\repos\Maxium\Maxium\obj\Debug\Maxium.Form1.resources
+C:\Users\NsGam\source\repos\Maxium\Maxium\obj\Debug\Maxium.Properties.Resources.resources
+C:\Users\NsGam\source\repos\Maxium\Maxium\obj\Debug\Maxium.csproj.GenerateResource.cache
+C:\Users\NsGam\source\repos\Maxium\Maxium\obj\Debug\Maxium.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\source\repos\Maxium\Maxium\obj\Debug\Maxium.exe
+C:\Users\NsGam\source\repos\Maxium\Maxium\obj\Debug\Maxium.pdb
+C:\Users\NsGam\source\repos\Maxium\Maxium\obj\Debug\Maxium.exe.config
