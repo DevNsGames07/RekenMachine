@@ -1,0 +1,11 @@
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\bin\Debug\posofnega.exe.config
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\bin\Debug\posofnega.exe
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\bin\Debug\posofnega.pdb
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\obj\Debug\posofnega.csproj.AssemblyReference.cache
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\obj\Debug\posofnega.Form1.resources
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\obj\Debug\posofnega.Properties.Resources.resources
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\obj\Debug\posofnega.csproj.GenerateResource.cache
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\obj\Debug\posofnega.csproj.CoreCompileInputs.cache
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\obj\Debug\posofnega.exe
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\obj\Debug\posofnega.pdb
+C:\Users\NsGam\Documents\GitHub\RekenMachine\posofnega\posofnega\obj\Debug\posofnega.exe.config
