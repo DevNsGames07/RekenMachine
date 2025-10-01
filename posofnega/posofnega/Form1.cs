@@ -36,7 +36,10 @@ namespace posofnega
             {
                 return "Negatief";
             }
-            return "Nul";
+            else if (check == 0) 
+            {
+                return "Nul";
+            }
         }
     }
 }
